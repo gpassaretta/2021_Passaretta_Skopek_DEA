@@ -2,7 +2,6 @@
 REPLICATION FILE FOR
 
 Passaretta, Giampiero and Skopek, Jan (2021). Does Schooling Decrease Socioeconomic Inequality in Early Achievement? A differential Exposure Approach. In: American Sociological Review
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 August 1, 2021
 Stata syntax (version 16) to replicate the findings
@@ -11,9 +10,8 @@ Note:  data necessary for the analyses (info on federal states) are only availab
 
 Data version: 9.0.0
 
--------------------------------------------------------------------------------------------------------------------
+
 Replicate the study's findings in 5 steps
--------------------------------------------------------------------------------------------------------------------
 
 1. Register as a data user at the research centre for the National Educational Panel Study (www.neps-data.de)
 	
