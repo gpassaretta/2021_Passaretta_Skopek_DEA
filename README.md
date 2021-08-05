@@ -15,10 +15,8 @@ Note:  data necessary for the analyses (info on federal states) are only availab
 	
 2. Request access to the RemoteNEPS
 
-3. Import the file "2021_Passaretta_Skopek_2021_DEA_ASR.zip" into the Remote environment
+3. Import the folder "2021_Passaretta_Skopek_2021_DEA_ASR" into the Remote environment and move it to: "Y:\Documents"
 
-4. Unzip the file in the remote environment and move the folder to: "Y:\Documents"
+5. Open the folder and run the .do file "_Replication_" 
 
-5. Run the .do file "_Replication_" in the folder
-
-The study's findings will appeat in the folder: "Y:\Documents\Passaretta_Skopek_2021_SchoolingInequality/03_output"
+The study's findings will appeat in the folder: "Y:\Documents\2021_Passaretta_Skopek_DEA_ASR/03_output"
