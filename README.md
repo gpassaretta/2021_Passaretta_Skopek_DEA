@@ -19,6 +19,6 @@ Note:  data necessary for the analyses (info on federal states) are only availab
 
 4. Unzip the file in the remote environment and move the folder to: "Y:\Documents"
 
-5. Open the folder and run the .do file "_Replication_"
+5. Open the folder and run the .do file "\_Replication_\"
 
 The study's findings will appear in the folder: "Y:\Documents\2021_Passaretta_Skopek_DEA_ASR\03_output"
