@@ -21,4 +21,4 @@ Note:  data necessary for the analyses (info on federal states) are only availab
 
 5. Open the folder and run the .do file "_Replication_" 
 
-The study's findings will appear in the folder: "Y:\Documents\2021_Passaretta_Skopek_DEA_ASR/03_output"
+The study's findings will appear in the folder: "Y:\Documents\2021_Passaretta_Skopek_DEA_ASR\03_output"
