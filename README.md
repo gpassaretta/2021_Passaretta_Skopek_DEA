@@ -7,9 +7,9 @@ Stata syntax (version 16) to replicate the findings
 Note: data necessary for the analyses (info on federal states) are only available in the remote environment of the NEPS (RemoteNEPS)
 
 Data:
-NEPS Starting Cohort 2
-Data version: 9.0.0
-doi: 10.5157/NEPS:SC2:9.0.0
+NEPS Starting Cohort 2 –
+Data version: 9.0.0 –
+doi: 10.5157/NEPS:SC2:9.0.0 –
 http://dx.doi.org/10.5157/NEPS:SC2:9.0.0 
 
 ### Replicate the study's findings in 5 steps
